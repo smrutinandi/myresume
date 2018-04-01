@@ -1,0 +1,29 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h4{
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Nunito Sans', sans-serif;
+	color: #212121;
+	font-size: 35px;
+}
+
+h3{
+	color: #212121;
+}
+
+.table{
+	background-color: #689F38;
+}
+
+body{
+	background-color: #fe9156ba;
+}
+
+
+img{
+	border-color: : white; 
+}
